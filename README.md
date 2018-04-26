@@ -1,6 +1,7 @@
 # report1_git_C
 アルゴリズム特論課題1(C)  
-Cで書きました
+Cで書きました  
+ソースは[ここ](https://github.com/akira-kumashiro/report1_git_C/blob/master/report1_git_C/report1_git_C/report1_git_C.cpp "report1_git_C.cpp")
 
 ## 交叉の種類
 ### 1. `uniformityCrossover()`
